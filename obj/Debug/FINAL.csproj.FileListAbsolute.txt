@@ -1,0 +1,77 @@
+D:\facultate\An2\BD\proiect bd\Combinare\FINAL\FINAL\obj\Debug\FINAL.csproj.AssemblyReference.cache
+D:\facultate\An2\BD\proiect bd\Combinare\FINAL\FINAL\obj\Debug\FINAL.Properties.Resources.resources
+D:\facultate\An2\BD\proiect bd\Combinare\FINAL\FINAL\obj\Debug\FINAL.csproj.GenerateResource.cache
+D:\facultate\An2\BD\proiect bd\Combinare\FINAL\FINAL\obj\Debug\FINAL.csproj.CoreCompileInputs.cache
+D:\facultate\An2\BD\proiect bd\Combinare\FINAL\FINAL\obj\Debug\ProiectBRC.Form1.resources
+D:\facultate\An2\BD\proiect bd\Combinare\FINAL\FINAL\obj\Debug\ProiectBRC.Form2.resources
+D:\facultate\An2\BD\proiect bd\Combinare\FINAL\FINAL\bin\Debug\FINAL.exe.config
+D:\facultate\An2\BD\proiect bd\Combinare\FINAL\FINAL\bin\Debug\FINAL.exe
+D:\facultate\An2\BD\proiect bd\Combinare\FINAL\FINAL\bin\Debug\FINAL.pdb
+D:\facultate\An2\BD\proiect bd\Combinare\FINAL\FINAL\bin\Debug\BouncyCastle.Crypto.dll
+D:\facultate\An2\BD\proiect bd\Combinare\FINAL\FINAL\bin\Debug\Google.Protobuf.dll
+D:\facultate\An2\BD\proiect bd\Combinare\FINAL\FINAL\bin\Debug\K4os.Compression.LZ4.dll
+D:\facultate\An2\BD\proiect bd\Combinare\FINAL\FINAL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\facultate\An2\BD\proiect bd\Combinare\FINAL\FINAL\bin\Debug\K4os.Hash.xxHash.dll
+D:\facultate\An2\BD\proiect bd\Combinare\FINAL\FINAL\bin\Debug\MySql.Data.dll
+D:\facultate\An2\BD\proiect bd\Combinare\FINAL\FINAL\bin\Debug\System.Buffers.dll
+D:\facultate\An2\BD\proiect bd\Combinare\FINAL\FINAL\bin\Debug\System.Memory.dll
+D:\facultate\An2\BD\proiect bd\Combinare\FINAL\FINAL\bin\Debug\System.Numerics.Vectors.dll
+D:\facultate\An2\BD\proiect bd\Combinare\FINAL\FINAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\facultate\An2\BD\proiect bd\Combinare\FINAL\FINAL\bin\Debug\Ubiety.Dns.Core.dll
+D:\facultate\An2\BD\proiect bd\Combinare\FINAL\FINAL\bin\Debug\ZstdNet.dll
+D:\facultate\An2\BD\proiect bd\Combinare\FINAL\FINAL\bin\Debug\Google.Protobuf.pdb
+D:\facultate\An2\BD\proiect bd\Combinare\FINAL\FINAL\bin\Debug\Google.Protobuf.xml
+D:\facultate\An2\BD\proiect bd\Combinare\FINAL\FINAL\bin\Debug\K4os.Compression.LZ4.xml
+D:\facultate\An2\BD\proiect bd\Combinare\FINAL\FINAL\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\facultate\An2\BD\proiect bd\Combinare\FINAL\FINAL\bin\Debug\K4os.Hash.xxHash.xml
+D:\facultate\An2\BD\proiect bd\Combinare\FINAL\FINAL\bin\Debug\MySql.Data.xml
+D:\facultate\An2\BD\proiect bd\Combinare\FINAL\FINAL\bin\Debug\System.Buffers.xml
+D:\facultate\An2\BD\proiect bd\Combinare\FINAL\FINAL\bin\Debug\System.Memory.xml
+D:\facultate\An2\BD\proiect bd\Combinare\FINAL\FINAL\bin\Debug\System.Numerics.Vectors.xml
+D:\facultate\An2\BD\proiect bd\Combinare\FINAL\FINAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\facultate\An2\BD\proiect bd\Combinare\FINAL\FINAL\obj\Debug\FINAL.exe
+D:\facultate\An2\BD\proiect bd\Combinare\FINAL\FINAL\obj\Debug\FINAL.pdb
+D:\facultate\An2\BD\proiect bd\Combinare\FINAL\FINAL\obj\Debug\ProiectBRC.FormClient.resources
+D:\facultate\An2\BD\proiect bd\Combinare\FINAL\FINAL\obj\Debug\ProiectBRC.FormAdminAngajat.resources
+D:\facultate\An2\BD\proiect bd\Combinare\FINAL\FINAL\obj\Debug\ProiectBRC.FormAdminUtil.resources
+D:\facultate\An2\BD\proiect bd\Combinare\FINAL\FINAL\obj\Debug\ProiectBRC.FormListareConturi.resources
+D:\facultate\An2\BD\proiect bd\Combinare\FINAL\FINAL\obj\Debug\ProiectBRC.FormMain.resources
+D:\User\Desktop\FINAL\FINAL\bin\Debug\FINAL.exe.config
+D:\User\Desktop\FINAL\FINAL\bin\Debug\FINAL.exe
+D:\User\Desktop\FINAL\FINAL\bin\Debug\FINAL.pdb
+D:\User\Desktop\FINAL\FINAL\bin\Debug\BouncyCastle.Crypto.dll
+D:\User\Desktop\FINAL\FINAL\bin\Debug\Google.Protobuf.dll
+D:\User\Desktop\FINAL\FINAL\bin\Debug\K4os.Compression.LZ4.dll
+D:\User\Desktop\FINAL\FINAL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\User\Desktop\FINAL\FINAL\bin\Debug\K4os.Hash.xxHash.dll
+D:\User\Desktop\FINAL\FINAL\bin\Debug\MySql.Data.dll
+D:\User\Desktop\FINAL\FINAL\bin\Debug\System.Buffers.dll
+D:\User\Desktop\FINAL\FINAL\bin\Debug\System.Memory.dll
+D:\User\Desktop\FINAL\FINAL\bin\Debug\System.Numerics.Vectors.dll
+D:\User\Desktop\FINAL\FINAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\User\Desktop\FINAL\FINAL\bin\Debug\Ubiety.Dns.Core.dll
+D:\User\Desktop\FINAL\FINAL\bin\Debug\ZstdNet.dll
+D:\User\Desktop\FINAL\FINAL\bin\Debug\Google.Protobuf.pdb
+D:\User\Desktop\FINAL\FINAL\bin\Debug\Google.Protobuf.xml
+D:\User\Desktop\FINAL\FINAL\bin\Debug\K4os.Compression.LZ4.xml
+D:\User\Desktop\FINAL\FINAL\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\User\Desktop\FINAL\FINAL\bin\Debug\K4os.Hash.xxHash.xml
+D:\User\Desktop\FINAL\FINAL\bin\Debug\MySql.Data.xml
+D:\User\Desktop\FINAL\FINAL\bin\Debug\System.Buffers.xml
+D:\User\Desktop\FINAL\FINAL\bin\Debug\System.Memory.xml
+D:\User\Desktop\FINAL\FINAL\bin\Debug\System.Numerics.Vectors.xml
+D:\User\Desktop\FINAL\FINAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\User\Desktop\FINAL\FINAL\obj\Debug\FINAL.csproj.AssemblyReference.cache
+D:\User\Desktop\FINAL\FINAL\obj\Debug\ProiectBRC.Form1.resources
+D:\User\Desktop\FINAL\FINAL\obj\Debug\ProiectBRC.Form2.resources
+D:\User\Desktop\FINAL\FINAL\obj\Debug\ProiectBRC.FormAdminAngajat.resources
+D:\User\Desktop\FINAL\FINAL\obj\Debug\ProiectBRC.FormAdminUtil.resources
+D:\User\Desktop\FINAL\FINAL\obj\Debug\ProiectBRC.FormClient.resources
+D:\User\Desktop\FINAL\FINAL\obj\Debug\ProiectBRC.FormListareConturi.resources
+D:\User\Desktop\FINAL\FINAL\obj\Debug\ProiectBRC.FormMain.resources
+D:\User\Desktop\FINAL\FINAL\obj\Debug\FINAL.Properties.Resources.resources
+D:\User\Desktop\FINAL\FINAL\obj\Debug\FINAL.csproj.GenerateResource.cache
+D:\User\Desktop\FINAL\FINAL\obj\Debug\FINAL.csproj.CoreCompileInputs.cache
+D:\User\Desktop\FINAL\FINAL\obj\Debug\FINAL.csproj.CopyComplete
+D:\User\Desktop\FINAL\FINAL\obj\Debug\FINAL.exe
+D:\User\Desktop\FINAL\FINAL\obj\Debug\FINAL.pdb
